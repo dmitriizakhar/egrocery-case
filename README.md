@@ -1,4 +1,4 @@
-# [Продуктовый кейс рынка E-grocery](https://nbviewer.jupyter.org/github/dmitriizakhar/egrocery_case/blob/main/product-case.ipynb)
+# [Продуктовый кейс рынка E-grocery](https://nbviewer.jupyter.org/github/dmitriizakhar/egrocery-case/blob/main/product-case.ipynb)
 
 **Задача:** Сервису доставки продуктов требуется найти инсайты по данным логам базы. 
 
@@ -6,6 +6,6 @@
 Проведен когортный анализ retantion, среднего чека, числа покупок на клиента, скидок. Обнаружен инсайд для маркетинговых активностей. Найдены проблемы базы(повторение идентификаторов при редактировании адреса). 
 Все выводы и предложения проиллюстрированы графиками и представлены в виде презентации для наглядности. 
 
-**[Презентация](https://nbviewer.jupyter.org/github/dmitriizakhar/egrocery_case/blob/main/presentation.pdf)**
+**[Презентация](https://nbviewer.jupyter.org/github/dmitriizakhar/egrocery-case/blob/main/presentation.pdf)**
 
 **Технологии:** sqlalchemy, pandas, seaborn, matplotlib, numpy
